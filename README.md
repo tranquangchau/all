@@ -65,3 +65,10 @@ Template:
 - link demo:
 - date ok:
 
+8
+- name: blog sử dụng codeigniter làm nháp lúc hết việc ở cty j-tec.com.vn@@@
+- description:
+- (2) environment: php, mysql
+- link:https://github.com/tranquangchau/blog-ci
+- link demo: 
+- date ok:Aug 22, 2015 (tạm tạm chưa hoàn thiện, đây là bản buil đầu tiên vs sự trợ giúp của Bình)
