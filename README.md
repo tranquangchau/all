@@ -57,5 +57,11 @@ Template:
 - link demo:https://raw.githubusercontent.com/tranquangchau/node_music/master/example.png, http://www.theharmonica.net/2012/09/harmonica-tab-kiss-rain.html (Tabs: Tremolo)
 - date ok:Jun 16, 2016
 
-
+7
+- name: Một vài cái của c# đã code ra của những năm 08-13@@@@
+- description:
+- (number) environment: c#
+- link: https://github.com/tranquangchau/cshap-2008-2013
+- link demo:
+- date ok:
 
