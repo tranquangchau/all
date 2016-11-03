@@ -1,0 +1,28 @@
+﻿Requirement
+
+http://www.vlance.vn/viec-freelance/chinh-sua-chuc-nang-in-an-cho-contact-form-7-wp-in-theo-yeu-cau
+
+Chỉnh sửa chức năng in ấn cho contact form 7 wp in theo yêu cầu
+Dịch vụ cần thuê: Xử lý dữ liệu
+
+Xin chào cả nhà ,
+
+hiện mình đang vướng phải vấn đề như sau.
+
+mình dùng contact form 7 để tạo form trên web cho kh đăng ký thông tin, upload hình, gửi info về email.
+
+hiện tại contact form 7 đã hỗ trợ
+
+Mình muốn làm thêm chức năng, sau khi KH nhập đầy đủ thông tin, bên dưới sẽ có button in , in dữ liệu ra dạng pdf.
+
+(mẫu của mình là 1 tờ đơn , có các trường CHXHCNVN đàng hoàng)
+
+tầm đầy 1 trang a4
+
+mình muốn điền các trường từ contact form 7 vào đây để KH sử dụng tờ đơn đó ký tên và để đi đăng ký các dịch vụ khác.
+
+bạn nào làm được xin liên hệ mình qua s.k.y.p.e : nguyenducnghia.it
+
+Ưu tiên các bạn ở gò vấp, trao đổi nhanh ạ.
+
+xin cám ơn.
