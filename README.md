@@ -72,3 +72,11 @@ Template:
 - link:https://github.com/tranquangchau/blog-ci
 - link demo: 
 - date ok:Aug 22, 2015 (tạm tạm chưa hoàn thiện, đây là bản buil đầu tiên vs sự trợ giúp của Bình)
+
+9
+- name: html ->savepdf
+- description: use chrome print save pdf (1 file .doc -> html -> jquery -> (insert value) -> print pdf -> config margin)
+- (number) environment: html,chrome
+- link: https://github.com/tranquangchau/all/tree/master/Smalldemo/savepdf
+- link demo: https://github.com/tranquangchau/all/blob/master/Smalldemo/savepdf/2016-11-04_001717.jpg
+- date ok: day 4/11/2016
