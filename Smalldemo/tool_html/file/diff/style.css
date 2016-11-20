@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 20, 2016, 9:15:31 AM
+    Author     : chau
+*/
+
+
+.left{
+    float: left;
+    /*background: red;*/
+    width: 33%;    
+    height: 100%;
+}
+.left ol{
+    height: 96%;
+    overflow: scroll;
+}
+.left li:hover{
+    background: green;
+    cursor: pointer;
+}
+.left .li-active{
+    background: darkgray;    
+}
+.center{
+    float: left;
+    background: yellow;
+    width: 33%;
+        
+}
+.center1,.center2{
+    height: 50%;
+}
+.right{
+    float: right;
+    background: green;
+    width: 33%;
+}
+.right1,.right2{
+    height: 50%;
+}
+div{
+    border-width: 1px;
+    border-style: solid;
+}
+.center2 textarea{
+    width: 100%;
+    height: 90%;
+}
+.right2 textarea{
+    width: 100%;
+    height: 90%;
+}
