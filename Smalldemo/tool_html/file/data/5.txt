@@ -1,2 +1,1 @@
-<input type="radio" name="gender" value="male" checked> Male<br>
-  <input type="radio" name="gender" value="female"> Female<br>
+The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.

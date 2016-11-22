@@ -1,0 +1,6 @@
+<table>
+  <tr>
+    <td>Cell A</td>
+    <td>Cell B</td>
+  </tr>
+</table>

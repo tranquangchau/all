@@ -1,8 +1,1 @@
-{
-	"1":"input text",
-	"2":"button",
-	"3":"input password",
-	"4":"check book",
-	"5":"input radio",
-	"6":"input number"
-}
+{"1":"HTML Tags","2":"<!-->","3":"<!DOCTYPE>","4":"<a>","5":"<abbr>","6":"<acronym>","7":"<address>","8":"<applet>","9":"<area>","10":"<article>","11":"<aside>","12":"<audio>","13":"<b>","14":"<base>","15":"<basefont>","16":"<bdi>","17":"<bdo>","18":"<big>","19":"<blockquote>","20":"<body>","21":"<br>","22":"<button>","23":"<canvas>","24":"<caption>","25":"<center>","26":"<cite>","27":"<code>","28":"<col>","29":"<colgroup>","30":"<datalist>","31":"<dd>","32":"<del>","33":"<details>","34":"<dfn>","35":"<dialog>","36":"<dir>","37":"<div>","38":"<dl>","39":"<dt>","40":"<em>","41":"<embed>","42":"<fieldset>","43":"<figcaption>","44":"<figure>","45":"<font>","46":"<footer>","47":"<form>","48":"<frame>","49":"<frameset>","50":"<h1> - <h6>","51":"<head>","52":"<header>","53":"<hr>","54":"<html>","55":"<i>","56":"<iframe>","57":"<img>","58":"<input>","59":"<ins>","60":"<kbd>","61":"<keygen>","62":"<label>","63":"<legend>","64":"<li>","65":"<link>","66":"<main>","67":"<map>","68":"<mark>","69":"<menu>","70":"<menuitem>","71":"<meta>","72":"<meter>","73":"<nav>","74":"<noframes>","75":"<noscript>","76":"<object>","77":"<ol>","78":"<optgroup>","79":"<option>","80":"<output>","81":"<p>","82":"<param>","83":"<pre>","84":"<progress>","85":"<q>","86":"<rp>","87":"<rt>","88":"<ruby>","89":"<s>","90":"<samp>","91":"<script>","92":"<section>","93":"<select>","94":"<small>","95":"<source>","96":"<span>","97":"<strike>","98":"<strong>","99":"<style>","100":"<sub>","101":"<summary>","102":"<sup>","103":"<table>","104":"<tbody>","105":"<td>","106":"<textarea>","107":"<tfoot>","108":"<th>","109":"<thead>","110":"<time>","111":"<title>","112":"<tr>","113":"<track>","114":"<tt>","115":"<u>","116":"<ul>","117":"<var>","118":"<video>","119":"<wbr>"}

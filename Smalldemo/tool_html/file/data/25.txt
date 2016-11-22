@@ -1,0 +1,1 @@
+<center>This text will be center-aligned.</center>

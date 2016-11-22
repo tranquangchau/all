@@ -1,0 +1,3 @@
+<object data="horse.wav">
+  <param name="autoplay" value="true">
+</object>

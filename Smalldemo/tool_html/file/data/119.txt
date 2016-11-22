@@ -1,0 +1,3 @@
+<p>
+To learn AJAX, you must be familiar with the XML<wbr>Http<wbr>Request Object.
+</p>
