@@ -52,6 +52,8 @@
                 </div>
             </div>
         </div>
+		<?php include 'pupop.php';?>
+		
         <script src="file/diff/jquery2.0.js" type="text/javascript"></script>
         <script src="file/diff/script.js" type="text/javascript"></script>
     </body>
