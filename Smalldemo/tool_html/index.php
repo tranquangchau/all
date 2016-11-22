@@ -1,5 +1,7 @@
 <html>
     <head>
+	<meta charset="UTF-8">
+
         <link href="file/diff/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
@@ -12,7 +14,7 @@
                 $data = json_decode($data, true);
                 $size_list=  sizeof($data);
                 foreach ($data as $key => $value) {
-                    echo '<li>'.$value.'</li>';
+                    echo '<li>'.htmlspecialchars($value).'</li>';
                 }
                 
                 $dir    = './file/data';
